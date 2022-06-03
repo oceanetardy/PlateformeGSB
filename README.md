@@ -1,5 +1,4 @@
 Plateforme GSB
 ======
 
-pour appendre le webdev
-pour aider les uns à aider les autres...
+Plateforme pour la gestion de frais forfait et hors forfait
