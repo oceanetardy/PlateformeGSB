@@ -1,4 +1,4 @@
-Test22
+Plateforme GSB
 ======
 
 pour appendre le webdev
